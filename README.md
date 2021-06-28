@@ -6,6 +6,7 @@
 
 For the final project, you will create an explanatory data visualization from a data set that communicates a clear finding or that highlights relationships or patterns in a data set. Your work should be a reflection of the theory and practice of data visualization, and your final deliverable will be a write up along with a Tableau Public workbook.
 
+
 # Step One - Choose a Data Set
 First, you will choose a data set or find a data set to explore and visualize. You should choose a data set based on your prior experiences in programming and working with data. The data set you choose will not increase or decrease your chances of passing this project.
 
